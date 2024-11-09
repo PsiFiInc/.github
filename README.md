@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./psifilogo.png" alt="PsiFi Logo" width="80%">
+</p>
 
 # PsiFi Inc.
 
