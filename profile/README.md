@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./psifilogo.png" alt="PsiFi Logo" width="40%">
+</p>
+
 # PsiFi Inc.
 
 Welcome to **PsiFi Inc.**, where we are transforming global payments with our blockchain-native platform. We aim to make cross-border transactions fast, secure, and nearly free, focusing initially on the US-Mexico remittance corridor.
