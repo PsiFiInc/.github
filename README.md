@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./psifilogo.png" alt="PsiFi Logo" width="80%">
+  <img src="./psifilogo.png" alt="PsiFi Logo" width="40%">
 </p>
 
 # PsiFi Inc.
