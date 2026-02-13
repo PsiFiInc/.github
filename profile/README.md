@@ -1,54 +1,66 @@
 <p align="center">
-  <img src="./psifilogo.png" alt="PsiFi Logo" width="40%">
+  <img src="https://raw.githubusercontent.com/PsiFiInc/.github/main/profile/psifilogo.png" alt="PsiFi Logo" width="200">
 </p>
 
-# PsiFi Inc.
+<h1 align="center">PsiFi Inc.</h1>
 
-Welcome to **PsiFi Inc.**, where we are transforming global payments with our blockchain-native platform. We aim to make cross-border transactions fast, secure, and nearly free, focusing initially on the US-Mexico remittance corridor.
+<p align="center">
+  <strong>Seamless, fast, and nearly free global payments for everyone.</strong>
+</p>
 
-## Overview
+<p align="center">
+  <a href="https://psifi.app">Website</a> •
+  <a href="https://apps.apple.com/app/psifi">iOS App</a> •
+  <a href="https://play.google.com/store/apps/details?id=com.psifi">Android App</a> •
+  <a href="mailto:support@psifi.app">Contact</a>
+</p>
 
-PsiFi is a blockchain-based payments platform that enables users to send money instantly across borders with minimal fees. We leverage stablecoins to provide a reliable and efficient remittance solution, making global payments accessible for everyone, especially for underbanked communities. With our non-custodial approach, users retain full control over their funds, ensuring security and transparency.
+---
 
-## Features
+## About PsiFi
 
-- **Instant Payments**: Near-instant cross-border transactions.
-- **Low Fees**: Minimal transaction costs, enabling affordable remittances.
-- **User-Friendly Interface**: Designed for both crypto enthusiasts and newcomers.
-- **Non-Custodial**: Users retain full control of their funds.
-- **Stablecoin-Based**: Payments are made using stablecoins like USDC, with Tether support on the roadmap.
-- **Freemium Model**: One free remittance per month, with additional transfers earned through referrals.
+PsiFi is a blockchain-based payments platform enabling instant cross-border transactions with minimal fees. We leverage stablecoins to provide reliable, efficient remittance solutions—making global payments accessible for everyone, especially underbanked communities.
+
+### Why PsiFi?
+
+| Traditional Remittance | PsiFi |
+|------------------------|-------|
+| 3-5 business days | **Instant** |
+| 5-10% fees | **< 1% fees** |
+| Limited hours | **24/7** |
+| Complex process | **Simple app** |
+
+## Key Features
+
+- **Instant Transfers** — Near-instant cross-border transactions
+- **Minimal Fees** — Fraction of traditional remittance costs
+- **Non-Custodial** — You retain full control of your funds
+- **Stablecoin-Powered** — Price stability with USDC
+- **Bank-Grade Security** — Enterprise security standards
 
 ## Target Market
 
-PsiFi initially targets the **$60 billion US-Mexico remittance market**, where digital transfers account for 99% of the transactions but are hindered by outdated payment rails. We aim to disrupt this space and expand into other Latin American corridors.
-
-## How It Works
-
-PsiFi’s platform uses blockchain technology to send payments directly from one wallet to another, utilizing stablecoins for price stability. By partnering with HoudiniSwap, we enable seamless swapping of currencies across different networks.
+We initially focus on the **$60 billion US-Mexico remittance corridor**, where digital transfers dominate but legacy payment rails create unnecessary friction and fees.
 
 ## Getting Started
 
-To start using PsiFi, follow these steps:
+1. **Download** the PsiFi app ([iOS](https://apps.apple.com/app/psifi) / [Android](https://play.google.com/store/apps/details?id=com.psifi))
+2. **Sign up** and complete verification
+3. **Send** your first transfer
 
-1. **Download the PsiFi App**: Available on both iOS and Android.
-2. **Sign Up**: Create an account and complete the KYC process.
-3. **Start Transferring**: Send your first transfer for free, and refer friends to unlock additional free remittances.
+## Security
 
-## Development
-
-PsiFi’s tech stack includes:
-
-- **Frontend**: React Native for cross-platform mobile app development.
-- **Backend**: Blockchain integrations and custom APIs for payments and currency swaps.
-- **Authentication**: Secure user authentication using JWT tokens.
-
-## License
-
-PsiFi Inc. owns all rights, title, and interest in and to the PsiFi platform, including all intellectual property associated with it. Unauthorized reproduction, distribution, or modification of the software is strictly prohibited. All rights reserved.
+Found a vulnerability? Please report it responsibly to **security@psifi.app**. See our [Security Policy](https://github.com/PsiFiInc/.github/blob/main/SECURITY.md) for details.
 
 ## Contact
 
-For more information, visit our [website](https://psifi.app) or reach out to us:
+- **General Inquiries:** hello@psifi.app
+- **Support:** support@psifi.app
+- **Security:** security@psifi.app
+- **Legal:** legal@psifi.app
 
-- **General Inquiries**: support@psifi.app
+---
+
+<p align="center">
+  <sub>© 2024-2026 PsiFi Inc. All rights reserved.</sub>
+</p>
