@@ -16,32 +16,22 @@ PsiFi is a blockchain-based payments platform that enables users to send money i
 - **Low Fees**: Minimal transaction costs, enabling affordable remittances.
 - **User-Friendly Interface**: Designed for both crypto enthusiasts and newcomers.
 - **Non-Custodial**: Users retain full control of their funds.
-- **Stablecoin-Based**: Payments are made using stablecoins like USDC, with Tether support on the roadmap.
-- **Freemium Model**: One free remittance per month, with additional transfers earned through referrals.
+- **Stablecoin-Based**: Payments are made using stablecoins like USDC.
 
 ## Target Market
 
 PsiFi initially targets the **$60 billion US-Mexico remittance market**, where digital transfers account for 99% of the transactions but are hindered by outdated payment rails. We aim to disrupt this space and expand into other Latin American corridors.
 
-## How It Works
+## Products
 
-PsiFi’s platform uses blockchain technology to send payments directly from one wallet to another, utilizing stablecoins for price stability. By partnering with HoudiniSwap, we enable seamless swapping of currencies across different networks.
+### For Individuals — [my.psifi.app](https://my.psifi.app)
+Send money to friends and family across borders instantly with minimal fees.
 
-## Getting Started
+### For Businesses — [portal.psifi.app](https://portal.psifi.app)
+Accept payments, manage payouts, and streamline cross-border business transactions.
 
-To start using PsiFi, follow these steps:
-
-1. **Download the PsiFi App**: Available on both iOS and Android.
-2. **Sign Up**: Create an account and complete the KYC process.
-3. **Start Transferring**: Send your first transfer for free, and refer friends to unlock additional free remittances.
-
-## Development
-
-PsiFi’s tech stack includes:
-
-- **Frontend**: React Native for cross-platform mobile app development.
-- **Backend**: Blockchain integrations and custom APIs for payments and currency swaps.
-- **Authentication**: Secure user authentication using JWT tokens.
+### Mobile Apps
+Native iOS and Android apps are coming soon.
 
 ## License
 
