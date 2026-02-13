@@ -10,8 +10,9 @@
 
 <p align="center">
   <a href="https://psifi.app">Website</a> •
-  <a href="https://apps.apple.com/app/psifi">iOS App</a> •
-  <a href="https://play.google.com/store/apps/details?id=com.psifi">Android App</a> •
+  <a href="https://my.psifi.app">Personal</a> •
+  <a href="https://portal.psifi.app">Business</a> •
+  <a href="https://x.com/psifi_app">𝕏 @psifi_app</a> •
   <a href="mailto:support@psifi.app">Contact</a>
 </p>
 
@@ -28,7 +29,18 @@ PsiFi is a blockchain-based payments platform enabling instant cross-border tran
 | 3-5 business days | **Instant** |
 | 5-10% fees | **< 1% fees** |
 | Limited hours | **24/7** |
-| Complex process | **Simple app** |
+| Complex process | **Simple** |
+
+## Products
+
+### For Individuals — [my.psifi.app](https://my.psifi.app)
+Send money to friends and family across borders instantly with minimal fees.
+
+### For Businesses — [portal.psifi.app](https://portal.psifi.app)
+Accept payments, manage payouts, and streamline cross-border business transactions.
+
+### Mobile Apps — Coming Soon
+Native iOS and Android apps are in development.
 
 ## Key Features
 
@@ -40,13 +52,7 @@ PsiFi is a blockchain-based payments platform enabling instant cross-border tran
 
 ## Target Market
 
-We initially focus on the **$60 billion US-Mexico remittance corridor**, where digital transfers dominate but legacy payment rails create unnecessary friction and fees.
-
-## Getting Started
-
-1. **Download** the PsiFi app ([iOS](https://apps.apple.com/app/psifi) / [Android](https://play.google.com/store/apps/details?id=com.psifi))
-2. **Sign up** and complete verification
-3. **Send** your first transfer
+We focus on the **$60 billion US-Mexico remittance corridor**, where digital transfers dominate but legacy payment rails create unnecessary friction and fees.
 
 ## Security
 
@@ -54,12 +60,16 @@ Found a vulnerability? Please report it responsibly to **security@psifi.app**. S
 
 ## Contact
 
-- **General Inquiries:** hello@psifi.app
+- **General:** hello@psifi.app
 - **Support:** support@psifi.app
 - **Security:** security@psifi.app
 - **Legal:** legal@psifi.app
 
 ---
+
+<p align="center">
+  <a href="https://x.com/psifi_app"><img src="https://img.shields.io/badge/𝕏-@psifi__app-000000?style=flat&logo=x" alt="X (Twitter)"></a>
+</p>
 
 <p align="center">
   <sub>© 2024-2026 PsiFi Inc. All rights reserved.</sub>
