@@ -48,8 +48,9 @@ To qualify for responsible disclosure:
 
 ### In Scope
 
-- PsiFi mobile applications (iOS and Android)
-- PsiFi web application (app.psifi.app)
+- PsiFi for Individuals (my.psifi.app)
+- PsiFi for Business (portal.psifi.app)
+- PsiFi mobile applications (iOS and Android - coming soon)
 - PsiFi API endpoints
 - Authentication and authorization mechanisms
 - Payment and transaction processing
