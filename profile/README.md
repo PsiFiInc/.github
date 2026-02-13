@@ -50,9 +50,13 @@ Native iOS and Android apps are in development.
 - **Stablecoin-Powered** — Price stability with USDC
 - **Bank-Grade Security** — Enterprise security standards
 
-## Target Market
+## Developer Resources
 
-We focus on the **$60 billion US-Mexico remittance corridor**, where digital transfers dominate but legacy payment rails create unnecessary friction and fees.
+| Resource | Link |
+|----------|------|
+| npm packages | [@psifi](https://www.npmjs.com/org/psifi) (private) |
+| Brand assets | [brand.psifi.app](https://brand.psifi.app) |
+| Security policy | [SECURITY.md](https://github.com/PsiFiInc/.github/blob/main/SECURITY.md) |
 
 ## Security
 
