@@ -13,7 +13,7 @@
   <a href="https://my.psifi.app">Personal</a> &middot;
   <a href="https://portal.psifi.app">Business</a> &middot;
   <a href="https://x.com/psifi_app">𝕏</a> &middot;
-  <a href="https://www.linkedin.com/company/psi-fi/">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/psifi/">LinkedIn</a>
 </p>
 
 ---
@@ -49,7 +49,7 @@ See our [Security Policy](https://github.com/PsiFiInc/.github/blob/main/SECURITY
 <p align="center">
   <a href="https://x.com/psifi_app"><img src="https://img.shields.io/badge/𝕏-@psifi__app-000000?style=flat&logo=x" alt="X"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/company/psi-fi/"><img src="https://img.shields.io/badge/LinkedIn-PsiFi-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/company/psifi/"><img src="https://img.shields.io/badge/LinkedIn-PsiFi-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 <p align="center"><sub>&copy; 2024–2026 PsiFi Inc. All rights reserved.</sub></p>
